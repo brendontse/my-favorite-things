@@ -1,12 +1,12 @@
-# _{My Favorite Things}_
+# My Favorite Things
 
-#### _{Website Exercise for Epicodus}, {05.29,2019}_
+#### Website Exercise for Epicodus, 05.29,2019
 
-#### By _**{Brendon Tse, Alex Sergejev}**_
+#### By **Brendon Tse, Alex Sergejev**
 
 ## Description
 
-_{This website consists of favorite things of the creators. The website is created in HTML}_
+This website consists of favorite things of the creators. The website is created in HTML
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{This website consists of favorite things of the creators. The website is creat
 
 ## Known Bugs
 
-_{No known bugs in current build}
+No known bugs in current build
 
 ## Support and contact details
 
-_{Please email any issues or feedback to brendonjtse@gmail.com}_
+Please email any issues or feedback to brendonjtse@gmail.com
 
 ## Technologies Used
 
-_{HTML}_
+HTML
 
 ### License
 
-Copyright (c) 2016 **_{Brendon Tse and Alex Sergejev}_**
+Copyright (c) 2016 **Brendon Tse and Alex Sergejev**
 
-This website is licensed under the MIT license. 
+This website is licensed under the MIT license.
